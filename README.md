@@ -1,3 +1,5 @@
+Created + edited  with Ken, Chi, Sam, Zikre, and Shane
+
 # objectDocumentation
 ♬♬Are you down with OOP?:
 
